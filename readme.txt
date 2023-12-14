@@ -1,0 +1,1 @@
+Untuk memulai newgame -> python main.py newgame
